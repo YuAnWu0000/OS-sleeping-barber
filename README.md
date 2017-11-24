@@ -1,4 +1,4 @@
-#OS sleeping barber problem <br />
+# OS sleeping barber problem <br />
 ## Input: <br />
 The number of customers: <br />
 The number of barbers: <br />
